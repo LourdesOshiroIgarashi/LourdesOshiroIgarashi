@@ -1,5 +1,12 @@
-### Hi guys, I'm Lourdes Oshiro Igarashi 👋
+# Hi guys, I'm Lourdes Oshiro Igarashi 👋
 
+<img align="right" alt="kimonotocat" src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/kimonotocat.png?raw=true"  width="250" />
+
+## Contact me
+
+<a href="https://www.linkedin.com/in/lourdes-oshiro-igarashi-ab95a2209/"><img height="30" src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/linked.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/lourdes.oshiro/"><img height="30" src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/instagram.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/lurdinhaoshiro/"><img height="30" src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/facebook.png"></a>&nbsp;&nbsp;
 
 ## 👩‍💻 About me
 * <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> I'm from Brazil
@@ -7,18 +14,21 @@
 * <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> My favorite programming language is Python
 * 🏞️ Traveling is one of my favorite hobbies
 
-<br>
-
 ## 🛠️Tech Stack
 
 <div align="center">
-  
-<img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/python.png?raw=true" height="60" width="60">
-<img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/java.png?raw=true" height="60" width="60">
-<img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/js.png?raw=true" height="60" width="60">
-<img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/html.png?raw=true" height="60" width="60">
-<img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/ninja_mock.png?raw=true" height="60" width="60">
-<img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/colab.png?raw=true" height="60" width="60">
+
+<img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/python.png?raw=true" height="60">
+
+<img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/java.png?raw=true" height="70">
+
+<img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/js.png?raw=true" height="60">
+
+<img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/html.png?raw=true" height="60">
+
+<img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/ninja.png?raw=true" height="60">
+
+<img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/co.png?raw=true" height="90">
 
 </div>
 
