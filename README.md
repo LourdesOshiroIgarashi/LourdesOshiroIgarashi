@@ -29,7 +29,7 @@
 
 <img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/ninja.png?raw=true" height="60">
 
-<img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/co.png?raw=true" height="60">
+<img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/googleco.png?raw=true" height="60">
 
 </div>
 
