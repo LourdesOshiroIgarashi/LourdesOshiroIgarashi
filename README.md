@@ -1,18 +1,18 @@
 # Hi guys, I'm Lourdes Oshiro Igarashi 👋
 
-<img align="right" alt="kimonotocat" src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/kimonotocat.png?raw=true"  width="250" />
+<img align="right" alt="kimonotocat" src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/kimonotocat.png?raw=true"  width="270" />
 
-## Contact me
+## 💻Contact me
 
 <a href="https://www.linkedin.com/in/lourdes-oshiro-igarashi-ab95a2209/"><img height="30" src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/lourdes.oshiro/"><img height="30" src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/insta.png"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/lurdinhaoshiro/"><img height="30" src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/facebook.png"></a>&nbsp;&nbsp;
 
-## 👩‍💻 About me
+## 💛 About me
 * <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> I'm from Brazil
 * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
 * <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> My favorite programming language is Python
-* 🏞️ Traveling is one of my favorite hobbies
+* 🏞️ Traveling is my favorite hobby
 * 🎹 I like to play musical keyboard
 
 ## 🛠️Tech Stack
@@ -21,7 +21,7 @@
 
 <img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/python.png?raw=true" height="70">
 
-<img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/java.png?raw=true" height="70">
+<img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/java.png?raw=true" height="80">
 
 <img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/js.png?raw=true" height="70">
 
@@ -29,7 +29,7 @@
 
 <img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/ninja.png?raw=true" height="60">
 
-<img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/co.png?raw=true" height="90">
+<img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/co.png?raw=true" height="60">
 
 </div>
 
