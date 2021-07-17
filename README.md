@@ -4,8 +4,8 @@
 
 ## Contact me
 
-<a href="https://www.linkedin.com/in/lourdes-oshiro-igarashi-ab95a2209/"><img height="30" src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/linked.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/lourdes.oshiro/"><img height="30" src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/instagram.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/lourdes-oshiro-igarashi-ab95a2209/"><img height="30" src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/lourdes.oshiro/"><img height="30" src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/insta.png"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/lurdinhaoshiro/"><img height="30" src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/facebook.png"></a>&nbsp;&nbsp;
 
 ## 👩‍💻 About me
@@ -13,16 +13,17 @@
 * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
 * <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> My favorite programming language is Python
 * 🏞️ Traveling is one of my favorite hobbies
+* 🎹 I like to play musical keyboard
 
 ## 🛠️Tech Stack
 
 <div align="center">
 
-<img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/python.png?raw=true" height="60">
+<img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/python.png?raw=true" height="70">
 
 <img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/java.png?raw=true" height="70">
 
-<img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/js.png?raw=true" height="60">
+<img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/js.png?raw=true" height="70">
 
 <img src="https://github.com/LourdesOshiroIgarashi/LourdesOshiroIgarashi/blob/main/imagens/html.png?raw=true" height="60">
 
